@@ -1,0 +1,134 @@
+body {
+    margin: auto;
+    max-width: 1000px;
+    font-family: cursive;
+}
+
+#body {
+    background-color: darksalmon;
+}
+
+#naslov h2 {
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+#list ul {
+    text-transform: uppercase;
+}
+
+#list a {
+    color: slategray;
+    text-decoration: none;
+}
+
+#list ul li {
+    display: inline-block;
+    padding-left: 50px;
+}
+
+a:hover {
+    background-color: black;
+}
+
+#h1 {
+    float: left;
+    width: 40%;
+}
+
+#h2 {
+    background: url("download2.jpg") no-repeat;
+    width: 225px;
+    height: 225px;
+    margin-top: 200px;
+}
+
+#h3 h3 {
+    background: url("download.jpg") no-repeat;
+    width: 225px;
+    height: 225px;
+    float: left;
+    margin-top: 100px;
+    padding-top: 250px;
+}
+
+#h3 p{
+    float: right;
+    width: 70%;
+}
+
+#h3 a {
+    text-decoration: none;
+    font-weight: bolder;
+    font-style: italic;
+    color: #8b40bd;
+    text-transform: uppercase;
+    text-align: center;
+    padding-left: 300px;
+}
+
+#h2  h3 {
+    margin-left: 300px;
+    width: 550px;
+}
+
+#h4 h3 {
+    background: url("obrazovanie.jpg") no-repeat;
+    width: 225px;
+    height: 225px;
+    float: left;
+    margin-top: 100px;
+    padding-top: 250px;
+}
+
+#h4 p{
+    float: right;
+    width: 70%;
+}
+
+#h4 h4 {
+    float: right;
+    width: 70%;
+}
+
+#h5 h3 {
+    background: url("contact.png") no-repeat;
+    width: 225px;
+    height: 225px;
+    float: left;
+    margin-top: 200px;
+    padding-top: 150px;
+}
+
+#h6 h4 {
+    background: url("telefon.png") no-repeat;
+    width: 225px;
+    height: 225px;
+    float: left;
+    margin-left: 30px;
+    padding-top: 240px;
+}
+
+#h7 h4 {
+    background: url("email.png") no-repeat;
+    width: 225px;
+    height: 225px;
+    float: right;
+    margin-right: 520px;
+    padding-top: 240px;
+    margin-top: -100px;
+}
+
+#h7 p {
+    float: left;
+    width: 70%;
+    text-align: center;
+    margin-top: -200px;
+    margin-left: 240px;
+}
+
+#h6 p {
+    padding-top: 280px;
+    padding-right: 400px;
+}
